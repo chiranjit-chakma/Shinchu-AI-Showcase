@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="SHINCHU AI: A private assistant, running on your device.">
+<rect width="1280" height="340" fill="#10151c"/><rect x="64" y="62" width="5" height="216" rx="2" fill="#c2d8a1"/>
+<circle cx="1110" cy="170" r="88" fill="none" stroke="#c2d8a1" stroke-width="2" opacity=".55"/><circle cx="1110" cy="170" r="52" fill="none" stroke="#c2d8a1" opacity=".3"/>
+<path d="M985 170h250M1110 45v250" stroke="#c2d8a1" opacity=".18"/>
+<text x="100" y="108" fill="#c2d8a1" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">SOFTWARE ENGINEERING PORTFOLIO</text>
+<text x="98" y="185" fill="#f3f5f7" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="600">SHINCHU AI</text>
+<text x="100" y="239" fill="#bac4cf" font-family="Segoe UI,Arial,sans-serif" font-size="23">A private assistant, running on your device.</text></svg>
